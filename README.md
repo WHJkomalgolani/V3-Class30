@@ -3,6 +3,8 @@
 Youtube link:
 https://www.youtube.com/watch?v=vmo00ILgXjg
 
+https://youtu.be/Hq7KGsfkq5I
+
 To do list:
 C30 - 
 1)Load the images of background and watermelon
